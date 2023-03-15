@@ -1,0 +1,1 @@
+INSERT INTO officer(rank, name) VALUES ('CAPTAIN', 'KIRK');
